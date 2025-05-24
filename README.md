@@ -16,4 +16,4 @@ Ez a szakdolgozati projekt egy Raspberry Pi-alapú beolvasó rendszert valósít
 ## Könyvtárak telepítése
 
 ```bash
-pip install -r requirementsraspb.txt
+pip install -r requirements_raspb.txt
