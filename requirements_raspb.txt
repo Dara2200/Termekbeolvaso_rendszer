@@ -1,0 +1,5 @@
+opencv-python
+adafruit-blinka
+RPi.GPIO
+hx711
+confluent-kafka
