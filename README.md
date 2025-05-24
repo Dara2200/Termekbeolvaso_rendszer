@@ -13,15 +13,11 @@ Ez a szakdolgozati projekt egy Raspberry Pi-alapú beolvasó rendszert valósít
 - Nema 17 + TMC2209/A4988 motorvezérlők
 - 3D nyomtatás (Fusion 360 modellek)
 
-## Könyvtárak telepítése Raspberry pi 4 re
+## Könyvtárak telepítése Raspberry pi 4 / Windowsra
 
 ```bash
 pip install -r requirements_raspb.txt
-```
-
-## Könyvtárak telepítése Windowsra
-
-```bash
 pip install -r requirements_win.txt
-```
+
+
 
